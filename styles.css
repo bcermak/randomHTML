@@ -1,0 +1,42 @@
+.appBar {
+    background-color: #857dcf;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    font-size: 300px;
+    border: solid coral;
+}
+
+.appBar h1 {
+    font-size: 5.5rem;
+    text-decoration: underline dotted coral;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Yellowtail', cursive;
+}
+.contentOne { 
+    background-color: #69dfc198;
+    text-align: center;
+    border: inset lightblue;
+    height: fit-content;
+    width: auto;
+    padding-top: 15px;
+}
+
+.contentTwo {
+    background-color: salmon;
+    text-align: center;
+    height: 250px;
+    padding-top: 15px;
+    padding-bottom: 0;
+    overflow: scroll;
+    border: inset royalblue;
+}
+
+.images {
+    height: auto;
+    width: 400px;
+}
+
+.imageRow {
+    text-align: center;
+    background-color: cadetblue;
+}
